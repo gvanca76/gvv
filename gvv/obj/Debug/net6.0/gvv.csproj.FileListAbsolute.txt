@@ -1,0 +1,15 @@
+C:\Users\SHOTARRY\source\repos\gvv\gvv\bin\Debug\net6.0\gvv.exe
+C:\Users\SHOTARRY\source\repos\gvv\gvv\bin\Debug\net6.0\gvv.deps.json
+C:\Users\SHOTARRY\source\repos\gvv\gvv\bin\Debug\net6.0\gvv.runtimeconfig.json
+C:\Users\SHOTARRY\source\repos\gvv\gvv\bin\Debug\net6.0\gvv.dll
+C:\Users\SHOTARRY\source\repos\gvv\gvv\bin\Debug\net6.0\gvv.pdb
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.csproj.AssemblyReference.cache
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.AssemblyInfoInputs.cache
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.AssemblyInfo.cs
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.csproj.CoreCompileInputs.cache
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.dll
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\refint\gvv.dll
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.pdb
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\gvv.genruntimeconfig.cache
+C:\Users\SHOTARRY\source\repos\gvv\gvv\obj\Debug\net6.0\ref\gvv.dll
