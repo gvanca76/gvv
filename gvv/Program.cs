@@ -1,13 +1,17 @@
 ﻿using System;
 
-namespace ConsoleApp12
+namespace gvv
 {
     internal class Program
     {
-        static void Main()
+        static void Main(string[]args)
         {
+            Console.WriteLine("gvantsa eliauri")
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(Console.ReadLine());
 
-            Console.WriteLine("Hello World!");
+
+
         }
     }
 }
